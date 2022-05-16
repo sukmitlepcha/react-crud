@@ -1,0 +1,13 @@
+.m-navbar-wrapper {
+  background-color: palevioletred;
+  padding: 20px;
+  display: flex;
+}
+
+.m-navbar-wrapper a {
+  color: white;
+}
+
+.m-navbar-wrapper a.active {
+  border: 2px solid black;
+}
